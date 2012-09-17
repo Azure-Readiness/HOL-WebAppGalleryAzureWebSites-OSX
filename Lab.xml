@@ -15,7 +15,7 @@
 </Description>  
   <Document ConversionType="Html">.\HOL.md</Document>
   <Title>Creating Web Sites in Windows Azure (OS X)</Title>
-  <Version>1.0.0</Version>
+  <Version>1.0.1</Version>
   <Source></Source>
   <CustomProperties>
 	<Property Name="GitHubRepository" Value="https://github.com/WindowsAzure-TrainingKit/HOL-WebAppGalleryAzureWebSites-OSX" />
